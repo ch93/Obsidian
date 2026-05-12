@@ -8,7 +8,8 @@ select * from table
 
 ## ss
 
-![[Pasted image 20260512142249.png]]
+![图片名][attachments/11.png]
+
 
 22
 ![[Pasted image 20260512142310.png]]

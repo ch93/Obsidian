@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ada37fe7a8470c7",
+        "id": "9bdd6c5d28002fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "9e4dbdde88e8db01",
+            "id": "f9ad1c80a66b44e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/Claude Code.md",
+                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code"
+              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5
   },
   "right": {
     "id": "955128f826942ca9",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/Claude Code.md",
+                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Claude Code 的反向链接列表"
+              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Output/Claude Code.md",
+                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Claude Code 的出链列表"
+              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/Claude Code.md",
+                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Claude Code 的大纲"
+              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院 的大纲"
             }
           }
         ],
@@ -180,17 +180,33 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9e4dbdde88e8db01",
+  "active": "f9ad1c80a66b44e1",
   "lastOpenFiles": [
-    "Output/attachments/Pasted image 20260512142310.png",
-    "Output/attachments/Pasted image 20260512142249.png",
-    "Output/attachments",
-    "Pasted image 20260512141821.png",
+    "Inbox/attachments/5c99481817e01483f7112e0882b71a25_MD5.jpg",
+    "Inbox/attachments/4e974814c156fe4bedb4d68be18fce7f_MD5.jpg",
+    "Inbox/attachments/64171850be08efdaa3225e214df14779_MD5.jpg",
+    "Inbox/attachments/d89fb8fd6d39d3d5bb74ffc2d68928bb_MD5.jpg",
+    "Inbox/attachments/4861bb3f86868bdea51fcdc3444cc422_MD5.jpg",
+    "Inbox/attachments/05f7da4c954795f5de0684ea63d7296a_MD5.jpg",
+    "Inbox/attachments/b1f38dbde1efb253640da54b2292f35d_MD5.jpg",
+    "Inbox/attachments/3f6b2d5da469c11e174f14918e003053_MD5.jpg",
+    "Inbox/attachments/a9adad6db3f4342f8d5e78fedbbadd3c_MD5.jpg",
+    "Inbox/attachments/68de6ef6df1d3942449a724ce5ca4db7_MD5.jpg",
+    "Inbox/attachments/63a3902fb2e551103f96a247f6fff652_MD5.jpg",
+    "Inbox/attachments",
     "Output/Claude Code.md",
-    "Pasted image 20260512141741.png",
+    "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
+    "attachments/Pasted.md",
+    "attachments.md",
+    "attachments 1.md",
+    "attachments 2.md",
+    "attachments/Pas.md",
+    "attachments",
+    "Output/attachments",
     "Inbox/从零搭建最小可用配置的知识库丨Obsidian + Claude Code 实践手记.md",
     "2026-05-12.md",
     "未命名.canvas",
@@ -205,7 +221,6 @@
     "新建文件夹",
     "Output",
     "Inbox",
-    "个人笔记",
-    "未命名 1.base"
+    "个人笔记"
   ]
 }
