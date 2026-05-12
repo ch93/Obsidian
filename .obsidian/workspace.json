@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c8d1140b1aa64c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ada37fe7a8470c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e4dbdde88e8db01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/Claude Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a749a3fcbed911ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10f99d26cefa714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da1c299b6be879d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "de7453e64ed4c4d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba5811f06e0dc77f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "955128f826942ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfb0e75c4e4a2714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f861317f1cbe5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Output/Claude Code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Claude Code 的反向链接列表"
+            }
+          },
+          {
+            "id": "6305f21ad9db376e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Output/Claude Code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Claude Code 的出链列表"
+            }
+          },
+          {
+            "id": "d5af984327670576",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fd13560be28b08e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1e20da537f80c303",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Output/Claude Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Claude Code 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "9e4dbdde88e8db01",
+  "lastOpenFiles": [
+    "Output/attachments/Pasted image 20260512142310.png",
+    "Output/attachments/Pasted image 20260512142249.png",
+    "Output/attachments",
+    "Pasted image 20260512141821.png",
+    "Output/Claude Code.md",
+    "Pasted image 20260512141741.png",
+    "Inbox/从零搭建最小可用配置的知识库丨Obsidian + Claude Code 实践手记.md",
+    "2026-05-12.md",
+    "未命名.canvas",
+    "CLAUDE.md",
+    "未命名.base",
+    "Index.md",
+    "Wiki/Log.md",
+    "Wiki/Index - 副本.md",
+    "Wiki/Index.md",
+    "Wiki/新建文本文档.txt",
+    "Wiki",
+    "新建文件夹",
+    "Output",
+    "Inbox",
+    "个人笔记",
+    "未命名 1.base"
+  ]
+}
