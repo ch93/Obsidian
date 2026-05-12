@@ -46,9 +46,9 @@ Claude Code 是 Anthropic 推出的 AI 编程助手，能直接在你的电脑�
 
 ### 2.2 配置好之后的界面
 
-![[attachments/a6933f0b8e712dbf4804c79a22ba6e34_MD5.webp]]
+![][attachments/a6933f0b8e712dbf4804c79a22ba6e34_MD5.webp]
 
-![[attachments/21abb7a81cfdef8f5bbff3f0d8a33c63_MD5.webp]]
+![][attachments/21abb7a81cfdef8f5bbff3f0d8a33c63_MD5.webp]
 
 ### 2.3 第一次体验：让 Claude Code 帮你整理文件
 
