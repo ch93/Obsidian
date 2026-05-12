@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
+                "file": "Inbox/Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院"
+              "title": "Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
+                "file": "Inbox/Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院 的反向链接列表"
+              "title": "Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
+                "file": "Inbox/Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院 的出链列表"
+              "title": "Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
+                "file": "Inbox/Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院 的大纲"
+              "title": "Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line 的大纲"
             }
           }
         ],
@@ -186,20 +186,21 @@
   },
   "active": "f9ad1c80a66b44e1",
   "lastOpenFiles": [
-    "Inbox/attachments/5c99481817e01483f7112e0882b71a25_MD5.jpg",
-    "Inbox/attachments/4e974814c156fe4bedb4d68be18fce7f_MD5.jpg",
-    "Inbox/attachments/64171850be08efdaa3225e214df14779_MD5.jpg",
-    "Inbox/attachments/d89fb8fd6d39d3d5bb74ffc2d68928bb_MD5.jpg",
-    "Inbox/attachments/4861bb3f86868bdea51fcdc3444cc422_MD5.jpg",
-    "Inbox/attachments/05f7da4c954795f5de0684ea63d7296a_MD5.jpg",
-    "Inbox/attachments/b1f38dbde1efb253640da54b2292f35d_MD5.jpg",
-    "Inbox/attachments/3f6b2d5da469c11e174f14918e003053_MD5.jpg",
-    "Inbox/attachments/a9adad6db3f4342f8d5e78fedbbadd3c_MD5.jpg",
-    "Inbox/attachments/68de6ef6df1d3942449a724ce5ca4db7_MD5.jpg",
-    "Inbox/attachments/63a3902fb2e551103f96a247f6fff652_MD5.jpg",
-    "Inbox/attachments",
+    "Inbox/attachments/388a18a8999c77a9a22af37eb9beaa31_MD5.webp",
+    "Inbox/attachments/bdbfe46af197f8a110056eb43d8f9b4d_MD5.webp",
+    "Inbox/attachments/4fde7b47560369bca1589cc6370ecaf1_MD5.webp",
+    "Inbox/attachments/6b0e2905c695c4a04460531ee6c90881_MD5.webp",
+    "Inbox/attachments/55643e8822c5580b6cadeaf6fe4c9a9a_MD5.webp",
+    "Inbox/attachments/869c1c2fc2ebfcc4edd9dff5bd7c9954_MD5.webp",
+    "Inbox/attachments/db1b99959cb2201fceb43121c2bfdc53_MD5.webp",
+    "Inbox/attachments/a6933f0b8e712dbf4804c79a22ba6e34_MD5.webp",
+    "Inbox/attachments/21abb7a81cfdef8f5bbff3f0d8a33c63_MD5.webp",
+    "Inbox/attachments/83630017917cd9a86456b708e44712bb_MD5.webp",
     "Output/Claude Code.md",
+    "Inbox/Claude Code 实战入门：从零教你用 Claude Code 干活  Ben 的博客：Dot to Line.md",
     "Inbox/Obsidian 教學：從下載到入門，完整操作指南，常用外掛懶人包｜科技翰林院.md",
+    "Output/attachments/Pasted image 20260512142310.png",
+    "Inbox/attachments",
     "attachments/Pasted.md",
     "attachments.md",
     "attachments 1.md",
